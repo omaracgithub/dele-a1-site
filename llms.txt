@@ -1,0 +1,56 @@
+# DELE A1 Practice
+
+> iOS app for preparing the official DELE A1 Spanish exam from Instituto Cervantes.
+
+## About
+
+DELE A1 Practice is a mobile app that helps candidates prepare for the DELE A1 (Diploma de Español como Lengua Extranjera, level A1) exam. It provides 7 complete mock exams in the official Instituto Cervantes format with real audio, AI-powered writing correction, detailed explanations, and progress tracking.
+
+## Key Facts
+
+- Platform: iOS only (App Store)
+- Level: A1 (intermediate) per the Common European Framework of Reference (CEFR)
+- Content: 7 full mock exams covering reading, listening, writing, and speaking
+- Audio: Professional recordings with native speakers
+- Writing: Free-form text input with AI scoring and correction
+- Progress: Results tracking by section and task
+- Practice modes: Daily quick practice + section-specific practice
+- Interface languages: 12 (English, Spanish, French, German, Portuguese, Brazilian Portuguese, Italian, Chinese, Japanese, Korean, Arabic, Russian)
+- Pricing: First exam free, subscription for full access
+- Developer: Independent (not affiliated with Instituto Cervantes)
+- Contact: hello@prepdele.com
+- Website: https://a1.prepdele.com
+
+## DELE A1 Exam Structure
+
+- Test 1: Reading comprehension (70 min, 5 tasks, 30 items)
+- Test 2: Listening comprehension (40 min, 5 tasks, 30 items)
+- Test 3: Written expression and interaction (60 min, 2 tasks)
+- Test 4: Oral expression and interaction (15 min + 15 min preparation)
+- Scoring: Group 1 (reading + listening) and Group 2 (writing + speaking), 50 points each, minimum 30 per group to pass
+
+## Common Use Cases
+
+- Spanish citizenship by residence (language requirement)
+- University admission in Spanish-speaking countries
+- Professional certification of Spanish proficiency
+- Personal language learning goals
+
+## Pages
+
+- [Homepage (Spanish)](https://a1.prepdele.com/)
+- [Homepage (English)](https://a1.prepdele.com/en/)
+- [Free sample exam](https://a1.prepdele.com/modelo-examen/)
+- [Blog / Preparation guides](https://a1.prepdele.com/blog/)
+- [Support / FAQ](https://a1.prepdele.com/support/)
+- [Privacy policy](https://a1.prepdele.com/privacy/)
+- [Terms of use](https://a1.prepdele.com/terms/)
+
+## Blog Articles
+
+- [¿Qué es el DELE A1?](https://a1.prepdele.com/blog/que-es-dele-a1/)
+- [DELE A1 vs DELE A1](https://a1.prepdele.com/blog/dele-a1-vs-dele-a1/)
+- [Aprobar el DELE A1 en 2 meses](https://a1.prepdele.com/blog/aprobar-dele-a1-en-2-meses/)
+- [Expresión escrita: ejemplos](https://a1.prepdele.com/blog/dele-a1-expresion-escrita/)
+- [Vocabulario clave](https://a1.prepdele.com/blog/vocabulario-dele-a1/)
+- [Comprensión auditiva: consejos](https://a1.prepdele.com/blog/dele-a1-comprension-auditiva/)
